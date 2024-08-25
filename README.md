@@ -1,6 +1,6 @@
 # Simple Weather App Using ReactJS and OpenWeatherMap API
 
-![Weather App](https://github.com/user-attachments/assets/2aaf560f-5a61-4907-b7ae-dfbf6403a8bb) <!-- You can add a screenshot of your app here -->
+![weather_app](https://github.com/user-attachments/assets/7b8bb4a2-f7e5-4f1c-98cb-40813092ea3f)
 
 ## Description
 
